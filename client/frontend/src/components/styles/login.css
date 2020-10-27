@@ -1,0 +1,130 @@
+.login-page {
+  background-color: #F6F9FE;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.login-form {
+  width: 420px;
+  height: 425px;
+  /*margin-top: 200px;*/
+  margin-top: 10%;
+  background: #FFFFFF;
+  box-shadow: 0 0 10px -1px rgba(158, 158, 158, 0.25);
+  border-radius: 15px;
+}
+
+.login-form a {
+  color: #252525;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 8px;
+}
+
+.login-form > div {
+  padding: unset;
+}
+
+
+.login-head {
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  background: #222222;
+  height: 166px;
+  padding-top: 46px;
+  padding-left: 44px;
+  margin-bottom:  12px;
+}
+
+/*.ant-card-body {
+  padding: unset;
+}*/
+
+.login-head h3 {
+
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 23px;
+  color: #FFFFFF;
+}
+
+.login-head img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  height: 166px;
+}
+
+.login-form--input {
+  width: 248px;
+  border: 0;
+  border-radius: unset;
+  border-color: unset;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: #6B6B6B;
+}
+
+.login-form--input:focus {
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: #7D58FF;
+}
+
+
+.flex-form {
+  display: flex;
+  justify-content: center;
+}
+
+.primary-btn {
+  margin-top: 18px;
+  background: #5459CD;
+  border-color: #5459CD;
+  width: 146px;
+  box-shadow: 0 12px 12px -8px rgba(84, 89, 205, 0.5);
+  border-radius: 10px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 12px;
+}
+
+.primary-btn:hover {
+  background: #7D58FF;
+  border-color: #7D58FF;
+}
+
+.primary-btn:focus {
+  background: #7D58FF;
+  border-color: #7D58FF;
+}
+
+/* .registerFormMain{
+    background-image: url(../images/imagesPixabel/personal3.jpg);
+    background-attachment: fixed;
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+   
+ } */
+
+
+/* .aboutUs{
+    background-image: url(../images/imagesPixabel/space.webp);
+    background-attachment: fixed;
+     background-position: center;
+     background-repeat: no-repeat; 
+     background-size: cover;
+   
+ } */
+
+
+/*https://thumbs.dreamstime.com/z/e-r-o-143432816.jpg*/
+/* Город */
+/* https://avatars.mds.yandex.net/get-pdb/70729/949bc210-bb71-48e8-aea8-95c35b05ce1e/s1200 */
